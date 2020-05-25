@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# 撩妹大法                                        
+1. 你们聊天时，你假装很随意你喜欢猫还是狗？她说：“
+狗”你就出其不意的学一声狗叫，如果他说喜欢猫，那你>就学一声猫叫！这个是百试不厌的，就算她知道这个小套路，她依然会很开心！                              
+2. 其实撩妹就是在你们平时聊天时候顺带撩的，你只有>出其不意她才会感到意外。就比如：你们刚刚见了面，你
+可以说：“你今天很怪啊！你知不知道？”她肯定一脸蒙逼地问：“哪里怪了？”这时候你就深情的望着她的眼睛说：
+“怪好看的。”然后就在等她笑了之后你就可以开始笑了，
+切记是对方笑之后你再笑！她如果不笑可能是被感动到了
+你就不要傻笑了！                                  
+3. 女生都喜欢与众不同的男生，又有点搞笑的那种。比>
+如在日常生活中会碰到这种情况，就是有另外一个人让你
+转达一句话或者一件事给她，而且她就在你旁边。这时候
+她就会问你？他说什么？（转达的内容）。你这时候就可以逗她了，你就说：“他说。。。他说。。”记住不要出来，这时候她肯定会追问你：“他到底说什么吖？这时候你>可以唱着跟她说：“他说风雨中这点痛算什么？擦干泪不>
+要问为什么？”这时候她绝对会被你逗笑，然后再把转达>
+的内容告诉她。你也可以经常在回答问题时候接一句歌词！这样显的更幽默                                  
+4. 撩妹还可以问她问题然后顺带开车，让她想下车都来>不及。比如你问她：“你知道新华字典为什么是禁书吗？”她肯定会一脸疑惑的反问你：“啊，新华字典怎么会是禁>书呢？我怎么不知道”这时候你就可以摆出一副我懂你们>不懂的样子说：“你把新华字典翻开读一下第一页就明白>了”(新华字典首页全是啊啊啊啊)老司机秒懂！这时候她>
+要是懂了的话肯定粉拳已经打过来了！这种又搞笑又污的话题女生还是比较喜欢的。                          
+5. 和女生聊天的过程中你免不了讲一些笑话，这时候就>
+是看你平时有没有注意去收集一些搞笑又新颖的笑话了。我就再给你讲一个新笑话吧！有一男生带着女友散步，路过餐馆。女友闻到餐馆的饭菜味道后赞叹道：“哇真香！”这时候讲到这里你就不要继续讲了，你可以问她，男>生这时候会怎么做，让她猜，结果她是可能猜不中的。最
+后她猜完以后你就告诉她。囊中羞涩的男生很绅士地说：
+“如果你喜欢，我们再从饭馆门前走一遍！哈哈哈哈     
+6. 还有大家可能也在想怎么才能和想撩的那个妹子有撩>
+不完的话题，这个时候就是你要主动找话题了，回答她问
+题时候不要像论文答辩似的，问什么答什么。你要主动找问题和她聊，最常见就是逗她，嘲讽她，然后她也会嘲讽你，这样话题就不会断了，比如我教大家一个小游戏用来撩你喜欢的那个人。首先这个要是有几个要好的朋友在一
+起效果更佳，随便找3个东西，比如3个杯子吧，然后你跟你要撩的那个人说，我们来做个游戏吧！你敲第一个时让你朋友说"忘"，敲第二个说"情"，第三个说"水"，美其名曰测试你朋友的反映速度，几次之后，不停的敲第一个， 你的朋友如果跟着说"忘，忘，忘，忘，汪，汪，汪，汪
+，汪，......"呵呵，效果就出来了。当她反应过来的时>
+候已经迟了，这时候她的粉拳又过来了，你就还是假装死
+不承认说：“我就是单纯的想测试你的反应速度”。这次以
+后相信以后你们每次见面这个梗就会成为你嘲讽她的案例
+，还怕没有话题撩吗？
 
-You can use the [editor on GitHub](https://github.com/jason-hue/jiaocheng/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jason-hue/jiaocheng/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+最后在时机成熟的时候可以认真的对她（他）说：“套路>
+是我学的，但是我喜欢你是真心的”效果就出来了。小编>
+在这里多说一句“碰到自己喜欢的就去追，不要怂，你追>
+了说不定还有希望，但是你不追是肯定没有希望的。”不>
+要相信什么缘分，自己的幸福是靠自己争取来的，靠缘分
+要等到猴年马月去，青春短暂，该疯就疯，该浪就浪！不
+要给青春留遗憾！祝大家早日脱单，撩到自己喜欢的人!
+~
