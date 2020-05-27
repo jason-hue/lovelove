@@ -40,26 +40,26 @@
 要给青春留遗憾！祝大家早日脱单，撩到自己喜欢的人!
 ~
     <script type="text/javascript">
-setTimeout(() => {
-L2Dwidget.init({
-"model": {
-"scale": 0.5
-},
-"display": {
-"position": "left",
-"width": 180,
-"height": 260,
-"hOffset": 0,
-"vOffset": -20
-},
-"mobile": {
-"show": true,
-"scale": 0.5
-},
-"react": {
-"opacityDefault": 0.7,
-"opacityOnHover": 0.2
-}
-});
-}, 1000)
-</script>
+    setTimeout(() => {
+    L2Dwidget.init({
+    "model": {
+    "scale": 0.5
+    },
+    "display": {
+    "position": "left",
+    "width": 180,
+    "height": 260,
+    "hOffset": 0,
+    "vOffset": -20
+    },
+    "mobile": {
+    "show": true,
+    "scale": 0.5
+    },
+    "react": {
+    "opacityDefault": 0.7,
+    "opacityOnHover": 0.2
+    }
+    });
+    }, 1000)
+    </script>
