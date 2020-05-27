@@ -37,14 +37,14 @@
 要相信什么缘分，自己的幸福是靠自己争取来的，靠缘分
 要等到猴年马月去，青春短暂，该疯就疯，该浪就浪！不
 要给青春留遗憾！祝大家早日脱单，撩到自己喜欢的人!
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
+    <!DOCTYPE html>
+    <html xmlns="http://www.w3.org/1999/xhtml">
+     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link rel="stylesheet" type="text/css" href="https://blog-static.cnblogs.com/files/lgjbky/waifu.css"/>
     <link rel="stylesheet" type="text/css" href="https://blog-static.cnblogs.com/files/lgjbky/flat-ui.min.css"/>
-</head>
-<body>    
+    </head>
+    <body>    
     <div class="waifu">
         <div class="waifu-tips"></div>
         <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
@@ -62,5 +62,5 @@
     <script src="https://blog-static.cnblogs.com/files/lgjbky/waifu-tips.js"></script>
     <script src="https://blog-static.cnblogs.com/files/lgjbky/live2d.js"></script>
     <script type="text/javascript">initModel()</script>
-</body>
-</html>
+    </body>
+    </html>
