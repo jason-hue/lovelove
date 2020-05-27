@@ -1,4 +1,4 @@
-<script type="text/javascript" charset="utf-8" async="" src="https://cdn.jsdelivr.net/npm/live2d-widget@3.0.4/lib/L2Dwidget.min.js"></script>
+    <script type="text/javascript" charset="utf-8" async="" src="https://cdn.jsdelivr.net/npm/live2d-widget@3.0.4/lib/L2Dwidget.min.js"></script>
 # 撩妹大法                                        
 ![](1.png)
 1. 你们聊天时，你假装很随意你喜欢猫还是狗？她说：“
@@ -39,7 +39,7 @@
 要等到猴年马月去，青春短暂，该疯就疯，该浪就浪！不
 要给青春留遗憾！祝大家早日脱单，撩到自己喜欢的人!
 ~
-<script type="text/javascript">
+    <script type="text/javascript">
 setTimeout(() => {
 L2Dwidget.init({
 "model": {
